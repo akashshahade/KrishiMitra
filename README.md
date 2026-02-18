@@ -7,7 +7,7 @@
 ### Problem Statements Addressed
 - ✅ **Problem Statement 1**: Market intelligence & pricing tools for retail/commerce
 - ✅ **Problem Statement 2**: Sustainability & resource efficiency (healthcare approach to crops)
-- ✅ **Problem Statement 3**: Rural ecosystem support & agricultural solutions
+- ✅ **Problem Statement 3**: Rural ecosystem support & agricultural solution
 
 ### Key Impact
 - Target: 10,000+ farmers in 6 months
